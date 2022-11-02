@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Willi",
+        "umur": 29,
+        "nim": "92316073",
+        "lulus": true,
+        "hobi": [
+            "Mendengarkan Musik",
+            "Bermain Sepakbola"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Wahyu Kusuma Raharja",
+            "pembimbing2": "Dyah Anggraini"
+        }
+    },
+    {
+        "nama": "Darwis",
+        "umur": 28,
+        "nim": "92410499",
+        "lulus": true,
+        "hobi": [
+            "Bermain Sepakbola",
+            "Bermain Futsal"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Indah Sri Handayani",
+            "pembimbing2": "Dian Cahyaningtyas"
+        }
+    }
+]
